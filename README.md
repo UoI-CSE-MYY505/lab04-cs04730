@@ -2,7 +2,7 @@
 
 ## UoI-CSE-MYY505 lab04
 
-## First-Name Last-Name
+## Kyriakos Mavromatis
 
 **TODO - Update your name in this readme. Leave 1 space after the ## to preserve the text formating (markdown)**
 
